@@ -13,10 +13,5 @@ Before you begin, ensure you have the following requirements met:
 - Python 3.6 or higher
 - An API token from Fyers (refer to the [Fyers API documentation](https://myapi.fyers.in/docs/) on how to obtain this)
 
-## Installation
-
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/your-repo-name.git`.
-2. Navigate to the cloned directory.
-3. Install the required dependencies using `pip install -r requirements.txt`.
 
 
